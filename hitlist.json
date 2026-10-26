@@ -1,0 +1,3063 @@
+{
+ "version": 1,
+ "generated": "2026-10-26T23:06Z",
+ "settings": {
+  "minAvgSoldPrice": 25.0,
+  "minSellThrough": 0.2,
+  "ebayFeeRate": 0.136,
+  "ebayOrderFee": 0.4,
+  "poshmarkFeeRate": 0.2,
+  "poshmarkFlatFeeUnder15": 2.95,
+  "minProfit": 15.0,
+  "typicalThriftPrice": 5.0
+ },
+ "brands": [
+  {
+   "id": "patagonia",
+   "name": "Patagonia",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "PATAGONIA",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Synchilla/Snap-T fleece, Retro-X, Nano Puff, Baggies; vintage 80s-90s tags",
+   "ebayAvgSold": 48.59,
+   "ebaySellers90d": 36316,
+   "ebaySellThrough": 0.2134,
+   "poshmarkMedian": 36.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"patagonia\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "arc-teryx",
+   "name": "Arc'teryx",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "ARC'TERYX",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ARCTERYX",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Shells and Atom/Cerium jackets; check Gore-Tex tag and seam tape",
+   "ebayAvgSold": 212.11,
+   "ebaySellers90d": 3156,
+   "ebaySellThrough": 0.2076,
+   "poshmarkMedian": 260.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"arc'teryx jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "the-north-face",
+   "name": "The North Face",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "THE NORTH FACE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "TNF",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Nuptse/700 down, Denali fleece, vintage Steep Tech and brown-label",
+   "ebayAvgSold": 52.41,
+   "ebaySellers90d": 19516,
+   "ebaySellThrough": 0.1518,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"the north face jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "fj-llr-ven",
+   "name": "Fjällräven",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "FJALLRAVEN",
+     "needsConfirmation": false
+    },
+    {
+     "text": "FJÄLLRÄVEN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Kånken bags, G-1000 pants and jackets",
+   "ebayAvgSold": 34.68,
+   "ebaySellers90d": 826,
+   "ebaySellThrough": 0.2509,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"fjallraven kanken\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "kuhl",
+   "name": "Kuhl",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "KUHL",
+     "needsConfirmation": false
+    },
+    {
+     "text": "KÜHL",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Men's pants and jackets",
+   "ebayAvgSold": 30.42,
+   "ebaySellers90d": 6692,
+   "ebaySellThrough": 0.3461,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"kuhl pants\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "filson",
+   "name": "Filson",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "FILSON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Mackinaw wool, Tin Cloth, bags; made-in-USA tags",
+   "ebayAvgSold": 129.67,
+   "ebaySellers90d": 6394,
+   "ebaySellThrough": 0.3658,
+   "poshmarkMedian": 80.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"filson\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "pendleton",
+   "name": "Pendleton",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "PENDLETON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Wool board shirts, blankets, vintage 'Warranted to be a Pendleton' tags",
+   "ebayAvgSold": 47.37,
+   "ebaySellers90d": 3988,
+   "ebaySellThrough": 0.2197,
+   "poshmarkMedian": 35.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"pendleton wool shirt\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "l-l-bean",
+   "name": "L.L.Bean",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "L.L.BEAN",
+     "needsConfirmation": false
+    },
+    {
+     "text": "LL BEAN",
+     "needsConfirmation": false
+    },
+    {
+     "text": "L.L. BEAN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Bean boots (Maine Hunting Shoe), Norwegian sweaters, vintage chamois shirts",
+   "ebayAvgSold": 46.59,
+   "ebaySellers90d": 2009,
+   "ebaySellThrough": 0.2493,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"l.l.bean boots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "eddie-bauer-vintage",
+   "name": "Eddie Bauer (vintage)",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "EDDIE BAUER",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Pre-2000 down jackets, Skyliner, made-in-USA tags only",
+   "ebayAvgSold": 71.09,
+   "ebaySellers90d": 447,
+   "ebaySellThrough": 0.1412,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"eddie bauer vintage down jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "woolrich-vintage",
+   "name": "Woolrich (vintage)",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "WOOLRICH",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Buffalo-plaid wool, made-in-USA coats and shirts",
+   "ebayAvgSold": 51.0,
+   "ebaySellers90d": 2085,
+   "ebaySellThrough": 0.2195,
+   "poshmarkMedian": 45.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"woolrich vintage wool\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "barbour",
+   "name": "Barbour",
+   "category": "Clothing",
+   "subcategory": "Outdoor",
+   "aliases": [
+    {
+     "text": "BARBOUR",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Waxed jackets (Bedale, Beaufort), Royal Warrant tags",
+   "ebayAvgSold": 195.61,
+   "ebaySellers90d": 1185,
+   "ebaySellThrough": 0.2356,
+   "poshmarkMedian": 250.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"barbour waxed jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "carhartt",
+   "name": "Carhartt",
+   "category": "Clothing",
+   "subcategory": "Workwear",
+   "aliases": [
+    {
+     "text": "CARHARTT",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Detroit and Active jackets, chore coats, double-knee pants; blanket-lined; vintage made-in-USA",
+   "ebayAvgSold": 89.17,
+   "ebaySellers90d": 14022,
+   "ebaySellThrough": 0.2154,
+   "poshmarkMedian": 69.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"carhartt jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "carhartt-wip",
+   "name": "Carhartt WIP",
+   "category": "Clothing",
+   "subcategory": "Workwear",
+   "aliases": [
+    {
+     "text": "CARHARTT WIP",
+     "needsConfirmation": false
+    },
+    {
+     "text": "WORK IN PROGRESS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Streetwear line, more fashion-priced than mainline",
+   "ebayAvgSold": 67.51,
+   "ebaySellers90d": 1543,
+   "ebaySellThrough": 0.1816,
+   "poshmarkMedian": 50.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"carhartt wip\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "dickies-vintage",
+   "name": "Dickies (vintage)",
+   "category": "Clothing",
+   "subcategory": "Workwear",
+   "aliases": [
+    {
+     "text": "DICKIES",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage work jackets and coveralls; modern pants rarely worth it",
+   "ebayAvgSold": 51.92,
+   "ebaySellers90d": 312,
+   "ebaySellThrough": 0.138,
+   "poshmarkMedian": 31.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dickies vintage jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "duluth-trading",
+   "name": "Duluth Trading",
+   "category": "Clothing",
+   "subcategory": "Workwear",
+   "aliases": [
+    {
+     "text": "DULUTH TRADING",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Fire Hose pants and canvas jackets",
+   "ebayAvgSold": 23.54,
+   "ebaySellers90d": 11235,
+   "ebaySellThrough": 0.218,
+   "poshmarkMedian": 20.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"duluth trading\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "levi-s-vintage",
+   "name": "Levi's (vintage)",
+   "category": "Clothing",
+   "subcategory": "Denim",
+   "aliases": [
+    {
+     "text": "LEVI'S",
+     "needsConfirmation": false
+    },
+    {
+     "text": "LEVIS",
+     "needsConfirmation": false
+    },
+    {
+     "text": "LEVI STRAUSS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "501s, 505s, Big E red tab, single-stitch, made-in-USA, orange tab, trucker jackets",
+   "ebayAvgSold": 74.0,
+   "ebaySellers90d": 3972,
+   "ebaySellThrough": 0.2386,
+   "poshmarkMedian": 54.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"levis 501 vintage\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": [
+    "SIGNATURE BY LEVI",
+    "LEVI STRAUSS SIGNATURE"
+   ]
+  },
+  {
+   "id": "wrangler-vintage",
+   "name": "Wrangler (vintage)",
+   "category": "Clothing",
+   "subcategory": "Denim",
+   "aliases": [
+    {
+     "text": "WRANGLER",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Made-in-USA jeans and western shirts",
+   "ebayAvgSold": 29.57,
+   "ebaySellers90d": 2655,
+   "ebaySellThrough": 0.1528,
+   "poshmarkMedian": 25.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"wrangler vintage jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "lee-vintage",
+   "name": "Lee (vintage)",
+   "category": "Clothing",
+   "subcategory": "Denim",
+   "aliases": [
+    {
+     "text": "LEE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Storm Rider jackets, made-in-USA",
+   "ebayAvgSold": 84.61,
+   "ebaySellers90d": 663,
+   "ebaySellThrough": 0.1997,
+   "poshmarkMedian": 80.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"lee storm rider\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "ralph-lauren-rrl",
+   "name": "Ralph Lauren RRL",
+   "category": "Clothing",
+   "subcategory": "Denim",
+   "aliases": [
+    {
+     "text": "RRL",
+     "needsConfirmation": true
+    },
+    {
+     "text": "DOUBLE RL",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Double RL denim and workwear; highest-value Ralph Lauren line",
+   "ebayAvgSold": 203.28,
+   "ebaySellers90d": 2286,
+   "ebaySellThrough": 0.137,
+   "poshmarkMedian": 95.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"rrl ralph lauren\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "polo-ralph-lauren-select",
+   "name": "Polo Ralph Lauren (select)",
+   "category": "Clothing",
+   "subcategory": "Heritage",
+   "aliases": [
+    {
+     "text": "POLO SPORT",
+     "needsConfirmation": false
+    },
+    {
+     "text": "POLO RALPH LAUREN",
+     "needsConfirmation": false
+    },
+    {
+     "text": "RALPH LAUREN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Polo Sport, Polo Bear, Stadium, hand-knit sweaters; plain polos rarely worth it",
+   "ebayAvgSold": 47.99,
+   "ebaySellers90d": 13210,
+   "ebaySellThrough": 0.2377,
+   "poshmarkMedian": 26.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"polo sport ralph lauren\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": [
+    "LAUREN RALPH LAUREN",
+    "LAUREN BY RALPH LAUREN",
+    "CHAPS",
+    "DENIM & SUPPLY",
+    "RALPH LAUREN HOME"
+   ]
+  },
+  {
+   "id": "tommy-hilfiger-vintage-90s",
+   "name": "Tommy Hilfiger (vintage 90s)",
+   "category": "Clothing",
+   "subcategory": "Heritage",
+   "aliases": [
+    {
+     "text": "TOMMY HILFIGER",
+     "needsConfirmation": false
+    },
+    {
+     "text": "TOMMY JEANS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "90s big-flag logo pieces",
+   "ebayAvgSold": 26.72,
+   "ebaySellers90d": 4102,
+   "ebaySellThrough": 0.1047,
+   "poshmarkMedian": 22.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vintage tommy hilfiger\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "harley-davidson",
+   "name": "Harley-Davidson",
+   "category": "Clothing",
+   "subcategory": "Heritage",
+   "aliases": [
+    {
+     "text": "HARLEY-DAVIDSON",
+     "needsConfirmation": false
+    },
+    {
+     "text": "HARLEY DAVIDSON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage dealer tees (single-stitch), leather jackets",
+   "ebayAvgSold": 50.38,
+   "ebaySellers90d": 3969,
+   "ebaySellThrough": 0.1528,
+   "poshmarkMedian": 22.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"harley davidson vintage t shirt\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "brooks-brothers-select",
+   "name": "Brooks Brothers (select)",
+   "category": "Clothing",
+   "subcategory": "Heritage",
+   "aliases": [
+    {
+     "text": "BROOKS BROTHERS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Made-in-USA shirts, Golden Fleece, tweed; most modern pieces are low",
+   "ebayAvgSold": 33.73,
+   "ebaySellers90d": 22085,
+   "ebaySellThrough": 0.1996,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"brooks brothers\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "lululemon",
+   "name": "Lululemon",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "LULULEMON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Align leggings, ABC pants, Scuba hoodies, Define jackets",
+   "ebayAvgSold": 29.08,
+   "ebaySellers90d": 9515,
+   "ebaySellThrough": 0.1074,
+   "poshmarkMedian": 20.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"lululemon leggings\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "vuori",
+   "name": "Vuori",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "VUORI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Joggers and Ponto shorts",
+   "ebayAvgSold": 34.24,
+   "ebaySellers90d": 11484,
+   "ebaySellThrough": 0.3131,
+   "poshmarkMedian": 35.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vuori\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "alo-yoga",
+   "name": "Alo Yoga",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "ALO",
+     "needsConfirmation": true
+    },
+    {
+     "text": "ALO YOGA",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Leggings, sets, hoodies",
+   "ebayAvgSold": 44.83,
+   "ebaySellers90d": 6704,
+   "ebaySellThrough": 0.2874,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"alo yoga\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "rhone",
+   "name": "Rhone",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "RHONE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Men's commuter pants and tops",
+   "ebayAvgSold": 30.84,
+   "ebaySellers90d": 1494,
+   "ebaySellThrough": 0.2703,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"rhone commuter\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "spanx",
+   "name": "Spanx",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "SPANX",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Faux leather leggings, AirEssentials",
+   "ebayAvgSold": 24.26,
+   "ebaySellers90d": 3373,
+   "ebaySellThrough": 0.0688,
+   "poshmarkMedian": 16.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"spanx leggings\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "nike-select",
+   "name": "Nike (select)",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "NIKE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage center-swoosh and ACG, Tech Fleece, sneakers; plain tees low",
+   "ebayAvgSold": 44.6,
+   "ebaySellers90d": 18546,
+   "ebaySellThrough": 0.1804,
+   "poshmarkMedian": 25.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"nike vintage\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "hoka",
+   "name": "Hoka",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "HOKA",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Running shoes in good tread condition",
+   "ebayAvgSold": 66.38,
+   "ebaySellers90d": 9130,
+   "ebaySellThrough": 0.3601,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"hoka shoes\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "on-running",
+   "name": "On Running",
+   "category": "Clothing",
+   "subcategory": "Athleisure",
+   "aliases": [
+    {
+     "text": "ON",
+     "needsConfirmation": true
+    },
+    {
+     "text": "ON RUNNING",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Cloud shoes",
+   "ebayAvgSold": 58.52,
+   "ebaySellers90d": 7328,
+   "ebaySellThrough": 0.3159,
+   "poshmarkMedian": 55.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"on cloud shoes\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "free-people",
+   "name": "Free People",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "FREE PEOPLE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Dresses, sweaters, FP Movement",
+   "ebayAvgSold": 34.0,
+   "ebaySellers90d": 6246,
+   "ebaySellThrough": 0.0715,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"free people dress\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "madewell",
+   "name": "Madewell",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "MADEWELL",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Jeans, leather bags and transport totes",
+   "ebayAvgSold": 25.61,
+   "ebaySellers90d": 2980,
+   "ebaySellThrough": 0.0333,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"madewell jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "reformation",
+   "name": "Reformation",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "REFORMATION",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Dresses (strong demand)",
+   "ebayAvgSold": 78.27,
+   "ebaySellers90d": 1196,
+   "ebaySellThrough": 0.0673,
+   "poshmarkMedian": 115.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"reformation dress\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "anthropologie-labels",
+   "name": "Anthropologie labels",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "MAEVE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "PILCRO",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ANTHROPOLOGIE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Maeve dresses, Pilcro jeans; also Anthropologie-stamped decor",
+   "ebayAvgSold": 34.0,
+   "ebaySellers90d": 5529,
+   "ebaySellThrough": 0.0865,
+   "poshmarkMedian": 37.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"maeve anthropologie\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "johnny-was",
+   "name": "Johnny Was",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "JOHNNY WAS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Embroidered tunics and kimonos",
+   "ebayAvgSold": 55.83,
+   "ebaySellers90d": 6498,
+   "ebaySellThrough": 0.2273,
+   "poshmarkMedian": 42.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"johnny was embroidered (plain 'johnny was' pulls in unrelated listings)\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "eileen-fisher",
+   "name": "Eileen Fisher",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "EILEEN FISHER",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Linen, silk, wool and cashmere pieces",
+   "ebayAvgSold": 37.11,
+   "ebaySellers90d": 13037,
+   "ebaySellThrough": 0.1442,
+   "poshmarkMedian": 35.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"eileen fisher\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "aritzia",
+   "name": "Aritzia",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "ARITZIA",
+     "needsConfirmation": false
+    },
+    {
+     "text": "WILFRED",
+     "needsConfirmation": false
+    },
+    {
+     "text": "BABATON",
+     "needsConfirmation": false
+    },
+    {
+     "text": "TNA",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Super Puff jackets, Wilfred and Babaton lines",
+   "ebayAvgSold": 113.23,
+   "ebaySellers90d": 129,
+   "ebaySellThrough": 0.134,
+   "poshmarkMedian": 140.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"aritzia super puff\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "vince",
+   "name": "Vince",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "VINCE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Cashmere, silk, leather",
+   "ebayAvgSold": 52.32,
+   "ebaySellers90d": 898,
+   "ebaySellThrough": 0.1284,
+   "poshmarkMedian": 51.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vince cashmere\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": [
+    "VINCE CAMUTO"
+   ]
+  },
+  {
+   "id": "theory",
+   "name": "Theory",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "THEORY",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Suiting and knits",
+   "ebayAvgSold": 53.9,
+   "ebaySellers90d": 518,
+   "ebaySellThrough": 0.0811,
+   "poshmarkMedian": 51.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"theory blazer\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "rag-bone",
+   "name": "Rag & Bone",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "RAG & BONE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "RAG&BONE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Jeans, boots, knits",
+   "ebayAvgSold": 42.51,
+   "ebaySellers90d": 2387,
+   "ebaySellThrough": 0.0764,
+   "poshmarkMedian": 35.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"rag and bone jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "allsaints",
+   "name": "AllSaints",
+   "category": "Clothing",
+   "subcategory": "Women's",
+   "aliases": [
+    {
+     "text": "ALLSAINTS",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ALL SAINTS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Leather jackets especially",
+   "ebayAvgSold": 150.07,
+   "ebaySellers90d": 435,
+   "ebaySellThrough": 0.154,
+   "poshmarkMedian": 120.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"allsaints leather jacket\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "faherty",
+   "name": "Faherty",
+   "category": "Clothing",
+   "subcategory": "Men's",
+   "aliases": [
+    {
+     "text": "FAHERTY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Blanket shirts, button-downs",
+   "ebayAvgSold": 33.84,
+   "ebaySellers90d": 5663,
+   "ebaySellThrough": 0.2109,
+   "poshmarkMedian": 35.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"faherty\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "peter-millar",
+   "name": "Peter Millar",
+   "category": "Clothing",
+   "subcategory": "Men's",
+   "aliases": [
+    {
+     "text": "PETER MILLAR",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Golf polos and quarter-zips",
+   "ebayAvgSold": 37.91,
+   "ebaySellers90d": 10369,
+   "ebaySellThrough": 0.2988,
+   "poshmarkMedian": 28.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"peter millar polo\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "johnnie-o",
+   "name": "Johnnie-O",
+   "category": "Clothing",
+   "subcategory": "Men's",
+   "aliases": [
+    {
+     "text": "JOHNNIE-O",
+     "needsConfirmation": false
+    },
+    {
+     "text": "JOHNNIE O",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Golf polos and quarter-zips",
+   "ebayAvgSold": 32.91,
+   "ebaySellers90d": 7106,
+   "ebaySellThrough": 0.2451,
+   "poshmarkMedian": 33.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"johnnie-o\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "stone-island",
+   "name": "Stone Island",
+   "category": "Clothing",
+   "subcategory": "Men's",
+   "aliases": [
+    {
+     "text": "STONE ISLAND",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Compass badge on sleeve; check authenticity",
+   "ebayAvgSold": 130.52,
+   "ebaySellers90d": 1558,
+   "ebaySellThrough": 0.0966,
+   "poshmarkMedian": 115.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"stone island\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "supreme",
+   "name": "Supreme",
+   "category": "Clothing",
+   "subcategory": "Streetwear",
+   "aliases": [
+    {
+     "text": "SUPREME",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Box logo, collabs; high counterfeit risk",
+   "ebayAvgSold": 62.94,
+   "ebaySellers90d": 2827,
+   "ebaySellThrough": 0.2411,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"supreme box logo\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "st-ssy-vintage",
+   "name": "Stüssy (vintage)",
+   "category": "Clothing",
+   "subcategory": "Streetwear",
+   "aliases": [
+    {
+     "text": "STUSSY",
+     "needsConfirmation": false
+    },
+    {
+     "text": "STÜSSY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage tees and hoodies",
+   "ebayAvgSold": 64.76,
+   "ebaySellers90d": 806,
+   "ebaySellThrough": 0.1226,
+   "poshmarkMedian": 28.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"stussy vintage\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "kith",
+   "name": "Kith",
+   "category": "Clothing",
+   "subcategory": "Streetwear",
+   "aliases": [
+    {
+     "text": "KITH",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Hoodies, collabs",
+   "ebayAvgSold": 117.51,
+   "ebaySellers90d": 389,
+   "ebaySellThrough": 0.1225,
+   "poshmarkMedian": 85.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"kith hoodie\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "dr-martens",
+   "name": "Dr. Martens",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "DR. MARTENS",
+     "needsConfirmation": false
+    },
+    {
+     "text": "DR MARTENS",
+     "needsConfirmation": false
+    },
+    {
+     "text": "AIRWAIR",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Made-in-England, 1460 boots",
+   "ebayAvgSold": 68.23,
+   "ebaySellers90d": 10737,
+   "ebaySellThrough": 0.1916,
+   "poshmarkMedian": 66.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dr martens boots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "birkenstock",
+   "name": "Birkenstock",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "BIRKENSTOCK",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Boston clogs (fast sellers), Arizona",
+   "ebayAvgSold": 78.96,
+   "ebaySellers90d": 2634,
+   "ebaySellThrough": 0.3839,
+   "poshmarkMedian": 90.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"birkenstock boston\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "red-wing",
+   "name": "Red Wing",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "RED WING",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Heritage boots: Iron Ranger, Moc Toe, Beckman",
+   "ebayAvgSold": 125.24,
+   "ebaySellers90d": 6559,
+   "ebaySellThrough": 0.2689,
+   "poshmarkMedian": 125.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"red wing boots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "frye",
+   "name": "Frye",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "FRYE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Leather boots, especially vintage",
+   "ebayAvgSold": 91.38,
+   "ebaySellers90d": 5015,
+   "ebaySellThrough": 0.1937,
+   "poshmarkMedian": 90.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"frye boots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "allbirds",
+   "name": "Allbirds",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "ALLBIRDS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Wool runners in clean condition",
+   "ebayAvgSold": 33.61,
+   "ebaySellers90d": 2709,
+   "ebaySellThrough": 0.1593,
+   "poshmarkMedian": 31.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"allbirds\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "danner",
+   "name": "Danner",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "DANNER",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Made-in-USA boots",
+   "ebayAvgSold": 106.35,
+   "ebaySellers90d": 3661,
+   "ebaySellThrough": 0.2502,
+   "poshmarkMedian": 100.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"danner boots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "salvatore-ferragamo",
+   "name": "Salvatore Ferragamo",
+   "category": "Clothing",
+   "subcategory": "Shoes",
+   "aliases": [
+    {
+     "text": "FERRAGAMO",
+     "needsConfirmation": false
+    },
+    {
+     "text": "SALVATORE FERRAGAMO",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vara pumps, loafers, belts",
+   "ebayAvgSold": 104.87,
+   "ebaySellers90d": 7922,
+   "ebaySellThrough": 0.0932,
+   "poshmarkMedian": 242.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"ferragamo\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "coach-vintage",
+   "name": "Coach (vintage)",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "COACH",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Pre-2000 leather bags with creed patch; 'Made in New York' or USA",
+   "ebayAvgSold": 127.71,
+   "ebaySellers90d": 8906,
+   "ebaySellThrough": 0.1533,
+   "poshmarkMedian": 80.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"coach vintage bag\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": [
+    "COACHELLA"
+   ]
+  },
+  {
+   "id": "dooney-bourke",
+   "name": "Dooney & Bourke",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "DOONEY & BOURKE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "DOONEY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage all-weather leather",
+   "ebayAvgSold": 80.66,
+   "ebaySellers90d": 14162,
+   "ebaySellThrough": 0.2326,
+   "poshmarkMedian": 43.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dooney bourke\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "longchamp",
+   "name": "Longchamp",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "LONGCHAMP",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Le Pliage totes",
+   "ebayAvgSold": 101.04,
+   "ebaySellers90d": 1423,
+   "ebaySellThrough": 0.0916,
+   "poshmarkMedian": 110.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"longchamp le pliage\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "tory-burch",
+   "name": "Tory Burch",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "TORY BURCH",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Bags and flats",
+   "ebayAvgSold": 76.4,
+   "ebaySellers90d": 13727,
+   "ebaySellThrough": 0.1523,
+   "poshmarkMedian": 60.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"tory burch\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "kate-spade",
+   "name": "Kate Spade",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "KATE SPADE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Bags; lower value than above",
+   "ebayAvgSold": 60.53,
+   "ebaySellers90d": 8386,
+   "ebaySellThrough": 0.1373,
+   "poshmarkMedian": 58.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"kate spade bag\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "burberry",
+   "name": "Burberry",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "BURBERRY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Trench coats, nova check scarves; authenticate",
+   "ebayAvgSold": 90.75,
+   "ebaySellers90d": 16185,
+   "ebaySellThrough": 0.0877,
+   "poshmarkMedian": 125.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"burberry\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "gucci",
+   "name": "Gucci",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "GUCCI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Authenticate before buying",
+   "ebayAvgSold": 180.88,
+   "ebaySellers90d": 25877,
+   "ebaySellThrough": 0.0583,
+   "poshmarkMedian": 400.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"gucci\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "louis-vuitton",
+   "name": "Louis Vuitton",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "LOUIS VUITTON",
+     "needsConfirmation": false
+    },
+    {
+     "text": "LV",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Date codes; high counterfeit risk",
+   "ebayAvgSold": 320.46,
+   "ebaySellers90d": 19893,
+   "ebaySellThrough": 0.0559,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"louis vuitton\" (Oct 25, 2026). Poshmark median left out: its top results are high-end authenticated pieces (median $1,565+), not what a thrift find sells for.",
+   "excludes": []
+  },
+  {
+   "id": "prada",
+   "name": "Prada",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "PRADA",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Nylon bags; authenticate",
+   "ebayAvgSold": 129.13,
+   "ebaySellers90d": 12976,
+   "ebaySellThrough": 0.0652,
+   "poshmarkMedian": 165.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"prada\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "herm-s",
+   "name": "Hermès",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "HERMES",
+     "needsConfirmation": false
+    },
+    {
+     "text": "HERMÈS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Silk scarves and ties; check hand-rolled edges",
+   "ebayAvgSold": 277.06,
+   "ebaySellers90d": 1103,
+   "ebaySellThrough": 0.0256,
+   "poshmarkMedian": 410.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"hermes scarf\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "chanel",
+   "name": "Chanel",
+   "category": "Clothing",
+   "subcategory": "Bags & luxury",
+   "aliases": [
+    {
+     "text": "CHANEL",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Authenticate before buying",
+   "ebayAvgSold": 269.46,
+   "ebaySellers90d": 15581,
+   "ebaySellThrough": 0.0839,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"chanel\" (Oct 25, 2026). Poshmark median left out: its top results are high-end authenticated pieces (median $1,565+), not what a thrift find sells for.",
+   "excludes": []
+  },
+  {
+   "id": "abercrombie-fitch",
+   "name": "Abercrombie & Fitch",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "ABERCROMBIE & FITCH",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ABERCROMBIE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "A&F",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Modern A&F: jeans, sweaters, outerwear. Most pieces are low; see the vintage row",
+   "ebayAvgSold": 29.93,
+   "ebaySellers90d": 22666,
+   "ebaySellThrough": 0.1089,
+   "poshmarkMedian": 19.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"abercrombie fitch\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "abercrombie-fitch-vintage",
+   "name": "Abercrombie & Fitch (vintage)",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "ABERCROMBIE & FITCH",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Pre-2000 tags: rugby shirts, heavyweight flannels, wool sweaters, outdoor gear-era pieces",
+   "ebayAvgSold": 40.95,
+   "ebaySellers90d": 4965,
+   "ebaySellThrough": 0.2164,
+   "poshmarkMedian": 25.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vintage abercrombie\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "loft",
+   "name": "LOFT",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "LOFT",
+     "needsConfirmation": true
+    },
+    {
+     "text": "ANN TAYLOR LOFT",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Mostly low value; new-with-tags sets only",
+   "ebayAvgSold": 15.48,
+   "ebaySellers90d": 4865,
+   "ebaySellThrough": 0.0323,
+   "poshmarkMedian": 16.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"loft ann taylor\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "lc-lauren-conrad",
+   "name": "LC Lauren Conrad",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "LC LAUREN CONRAD",
+     "needsConfirmation": false
+    },
+    {
+     "text": "LAUREN CONRAD",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Kohl's line; rarely worth listing",
+   "ebayAvgSold": 13.33,
+   "ebaySellers90d": 2095,
+   "ebaySellThrough": 0.0631,
+   "poshmarkMedian": 15.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"lc lauren conrad\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "lucky-brand",
+   "name": "Lucky Brand",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "LUCKY BRAND",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Jeans; vintage made-in-USA pairs do better",
+   "ebayAvgSold": 20.87,
+   "ebaySellers90d": 7785,
+   "ebaySellThrough": 0.139,
+   "poshmarkMedian": 18.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"lucky brand jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "cynthia-rowley",
+   "name": "Cynthia Rowley",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "CYNTHIA ROWLEY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Swim and dresses; most pieces low",
+   "ebayAvgSold": 23.62,
+   "ebaySellers90d": 2723,
+   "ebaySellThrough": 0.0786,
+   "poshmarkMedian": 16.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"cynthia rowley\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "inc-international-concepts",
+   "name": "INC International Concepts",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "INC INTERNATIONAL CONCEPTS",
+     "needsConfirmation": false
+    },
+    {
+     "text": "INC",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Macy's house brand; rarely worth listing",
+   "ebayAvgSold": 18.08,
+   "ebaySellers90d": 7057,
+   "ebaySellThrough": 0.0558,
+   "poshmarkMedian": 14.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"inc international concepts\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "dana-buchman",
+   "name": "Dana Buchman",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "DANA BUCHMAN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Kohl's line; rarely worth listing",
+   "ebayAvgSold": 17.62,
+   "ebaySellers90d": 1463,
+   "ebaySellThrough": 0.0646,
+   "poshmarkMedian": 12.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dana buchman\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "chico-s",
+   "name": "Chico's",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "CHICO'S",
+     "needsConfirmation": false
+    },
+    {
+     "text": "CHICOS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "High volume but low price; travelers sets new-with-tags only",
+   "ebayAvgSold": 18.56,
+   "ebaySellers90d": 21548,
+   "ebaySellThrough": 0.1041,
+   "poshmarkMedian": 17.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"chicos\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "talbots",
+   "name": "Talbots",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "TALBOTS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "High volume but low price; cashmere and wool coats can be exceptions",
+   "ebayAvgSold": 22.36,
+   "ebaySellers90d": 25681,
+   "ebaySellThrough": 0.1115,
+   "poshmarkMedian": 21.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"talbots\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "simply-vera-vera-wang",
+   "name": "Simply Vera Vera Wang",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "SIMPLY VERA",
+     "needsConfirmation": false
+    },
+    {
+     "text": "VERA WANG",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Kohl's line; rarely worth listing",
+   "ebayAvgSold": 16.84,
+   "ebaySellers90d": 2758,
+   "ebaySellThrough": 0.0781,
+   "poshmarkMedian": 13.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"simply vera vera wang\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "karen-scott",
+   "name": "Karen Scott",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "KAREN SCOTT",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Macy's house brand; rarely worth listing",
+   "ebayAvgSold": 15.98,
+   "ebaySellers90d": 2957,
+   "ebaySellThrough": 0.1112,
+   "poshmarkMedian": 12.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"karen scott\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "gap",
+   "name": "Gap",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "GAP",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Modern Gap: low value",
+   "ebayAvgSold": 20.05,
+   "ebaySellers90d": 6121,
+   "ebaySellThrough": 0.0888,
+   "poshmarkMedian": 15.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"gap jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "gap-vintage",
+   "name": "Gap (vintage)",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "GAP",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "90s made-in-USA tags, logo sweatshirts, heavyweight pocket tees",
+   "ebayAvgSold": 27.87,
+   "ebaySellers90d": 4955,
+   "ebaySellThrough": 0.158,
+   "poshmarkMedian": 21.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vintage gap\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "guess",
+   "name": "Guess",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "GUESS",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Modern jeans: low value",
+   "ebayAvgSold": 25.92,
+   "ebaySellers90d": 2821,
+   "ebaySellThrough": 0.1234,
+   "poshmarkMedian": 25.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"guess jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "guess-vintage",
+   "name": "Guess (vintage)",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "GUESS",
+     "needsConfirmation": true
+    },
+    {
+     "text": "GEORGES MARCIANO",
+     "needsConfirmation": false
+    },
+    {
+     "text": "GUESS JEANS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "80s-90s triangle logo denim and jackets",
+   "ebayAvgSold": 29.95,
+   "ebaySellers90d": 1076,
+   "ebaySellThrough": 0.1245,
+   "poshmarkMedian": 30.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vintage guess jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "kut-from-the-kloth",
+   "name": "Kut from the Kloth",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "KUT FROM THE KLOTH",
+     "needsConfirmation": false
+    },
+    {
+     "text": "KUT",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Women's jeans; new-with-tags or premium washes only",
+   "ebayAvgSold": 19.51,
+   "ebaySellers90d": 2029,
+   "ebaySellThrough": 0.0699,
+   "poshmarkMedian": 20.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"kut from the kloth jeans\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "cable-gauge",
+   "name": "Cable & Gauge",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "CABLE & GAUGE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "CABLE AND GAUGE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Department-store sweaters; rarely worth listing",
+   "ebayAvgSold": 12.99,
+   "ebaySellers90d": 291,
+   "ebaySellThrough": 0.0455,
+   "poshmarkMedian": 15.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"cable gauge sweater\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "rachel-zoe",
+   "name": "Rachel Zoe",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "RACHEL ZOE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Mostly low; leather jackets and new-with-tags pieces can be exceptions",
+   "ebayAvgSold": 25.92,
+   "ebaySellers90d": 2971,
+   "ebaySellThrough": 0.0859,
+   "poshmarkMedian": 15.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"rachel zoe\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "laura-ashley",
+   "name": "Laura Ashley",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "LAURA ASHLEY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Modern pieces; dresses sell best",
+   "ebayAvgSold": 45.78,
+   "ebaySellers90d": 612,
+   "ebaySellThrough": 0.1002,
+   "poshmarkMedian": 40.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"laura ashley dress\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "laura-ashley-vintage",
+   "name": "Laura Ashley (vintage)",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "LAURA ASHLEY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "1970s-90s prairie and floral cotton dresses; 'Made in Great Britain' tags; check for stains and size",
+   "ebayAvgSold": 57.76,
+   "ebaySellers90d": 319,
+   "ebaySellThrough": 0.1042,
+   "poshmarkMedian": 50.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vintage laura ashley dress\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "belldini",
+   "name": "Belldini",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "BELLDINI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Embellished tops and cardigans; rarely worth listing",
+   "ebayAvgSold": 16.22,
+   "ebaySellers90d": 242,
+   "ebaySellThrough": 0.0532,
+   "poshmarkMedian": 18.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"belldini\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "tahari",
+   "name": "Tahari",
+   "category": "Clothing",
+   "subcategory": "Mall & department",
+   "aliases": [
+    {
+     "text": "TAHARI",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ELIE TAHARI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Suits and dresses; Elie Tahari (higher line) does better than Tahari ASL",
+   "ebayAvgSold": 24.73,
+   "ebaySellers90d": 7320,
+   "ebaySellThrough": 0.0733,
+   "poshmarkMedian": 20.0,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"tahari\" (Oct 25, 2026). Poshmark: sold listings, same search.",
+   "excludes": []
+  },
+  {
+   "id": "le-creuset",
+   "name": "Le Creuset",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "LE CREUSET",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Enameled cast iron Dutch ovens; size number on lid and base",
+   "ebayAvgSold": 168.46,
+   "ebaySellers90d": 1262,
+   "ebaySellThrough": 0.3133,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"le creuset dutch oven\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "staub",
+   "name": "Staub",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "STAUB",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Enameled cast iron cocottes",
+   "ebayAvgSold": 58.31,
+   "ebaySellers90d": 1952,
+   "ebaySellThrough": 0.1697,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"staub\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "griswold",
+   "name": "Griswold",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "GRISWOLD",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ERIE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Cast iron; large or small block logo, 'ERIE' marked",
+   "ebayAvgSold": 116.84,
+   "ebaySellers90d": 2610,
+   "ebaySellThrough": 0.3939,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"griswold cast iron\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "wagner",
+   "name": "Wagner",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "WAGNER",
+     "needsConfirmation": true
+    },
+    {
+     "text": "WAGNER WARE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Cast iron; 'Wagner Ware Sidney -O-'",
+   "ebayAvgSold": 59.37,
+   "ebaySellers90d": 1289,
+   "ebaySellThrough": 0.2769,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"wagner ware cast iron\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "descoware",
+   "name": "Descoware",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "DESCOWARE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Enameled cast iron, Belgium",
+   "ebayAvgSold": 38.57,
+   "ebaySellers90d": 183,
+   "ebaySellThrough": 0.1017,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"descoware\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "dansk-kobenstyle",
+   "name": "Dansk Kobenstyle",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "DANSK",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Kobenstyle enamel pots and pans",
+   "ebayAvgSold": 57.54,
+   "ebaySellers90d": 454,
+   "ebaySellThrough": 0.2256,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dansk kobenstyle\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "cathrineholm",
+   "name": "Cathrineholm",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "CATHRINEHOLM",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Lotus-pattern enamel, Norway",
+   "ebayAvgSold": 92.28,
+   "ebaySellers90d": 200,
+   "ebaySellThrough": 0.142,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"cathrineholm\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "all-clad",
+   "name": "All-Clad",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "ALL-CLAD",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ALL CLAD",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Stainless and copper core",
+   "ebayAvgSold": 86.1,
+   "ebaySellers90d": 3069,
+   "ebaySellThrough": 0.3349,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"all-clad\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "mauviel",
+   "name": "Mauviel",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "MAUVIEL",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Copper cookware",
+   "ebayAvgSold": 229.35,
+   "ebaySellers90d": 197,
+   "ebaySellThrough": 0.1756,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"mauviel copper\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "corningware-vintage",
+   "name": "Corningware (vintage)",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "CORNING WARE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "CORNINGWARE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Blue Cornflower, Spice of Life, rare patterns, P-series",
+   "ebayAvgSold": 26.64,
+   "ebaySellers90d": 5017,
+   "ebaySellThrough": 0.2074,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"corningware vintage\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "revere-ware-vintage",
+   "name": "Revere Ware (vintage)",
+   "category": "Housewares",
+   "subcategory": "Cookware",
+   "aliases": [
+    {
+     "text": "REVERE WARE",
+     "needsConfirmation": false
+    },
+    {
+     "text": "REVERE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Pre-1968 copper-bottom 'Process Patent'",
+   "ebayAvgSold": 42.99,
+   "ebaySellers90d": 2452,
+   "ebaySellThrough": 0.3279,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"revere ware copper\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "pyrex-vintage",
+   "name": "Pyrex (vintage)",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "PYREX",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Patterned bowls and casseroles: Butterprint, Gooseberry, Snowflake; lids intact",
+   "ebayAvgSold": 51.22,
+   "ebaySellers90d": 6859,
+   "ebaySellThrough": 0.303,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"pyrex vintage bowl\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "fire-king",
+   "name": "Fire-King",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "FIRE-KING",
+     "needsConfirmation": false
+    },
+    {
+     "text": "FIRE KING",
+     "needsConfirmation": false
+    },
+    {
+     "text": "ANCHOR HOCKING",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Jadeite, advertising mugs, colored nesting bowls",
+   "ebayAvgSold": 46.22,
+   "ebaySellers90d": 1306,
+   "ebaySellThrough": 0.2864,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"fire king jadeite\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "fiesta-homer-laughlin",
+   "name": "Fiesta (Homer Laughlin)",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "FIESTA",
+     "needsConfirmation": true
+    },
+    {
+     "text": "HLC",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Vintage colors (pre-1973); check marks",
+   "ebayAvgSold": 34.24,
+   "ebaySellers90d": 450,
+   "ebaySellThrough": 0.1535,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"fiesta ware vintage\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "roseville",
+   "name": "Roseville",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "ROSEVILLE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Art pottery vases; raised mark on base",
+   "ebayAvgSold": 70.79,
+   "ebaySellers90d": 2383,
+   "ebaySellThrough": 0.1334,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"roseville pottery\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "mccoy",
+   "name": "McCoy",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "MCCOY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Cookie jars and planters; many reproductions",
+   "ebayAvgSold": 34.12,
+   "ebaySellers90d": 3107,
+   "ebaySellThrough": 0.1636,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"mccoy pottery\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "hull-pottery",
+   "name": "Hull Pottery",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "HULL",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Vases and planters",
+   "ebayAvgSold": 36.46,
+   "ebaySellers90d": 1621,
+   "ebaySellThrough": 0.12,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"hull pottery\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "haeger",
+   "name": "Haeger",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "HAEGER",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Mid-century pottery",
+   "ebayAvgSold": 34.89,
+   "ebaySellers90d": 993,
+   "ebaySellThrough": 0.1028,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"haeger pottery\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "franciscan",
+   "name": "Franciscan",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "FRANCISCAN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Starburst, Atomic, Desert Rose",
+   "ebayAvgSold": 41.19,
+   "ebaySellers90d": 118,
+   "ebaySellThrough": 0.0717,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"franciscan dinnerware\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "russel-wright",
+   "name": "Russel Wright",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "RUSSEL WRIGHT",
+     "needsConfirmation": false
+    },
+    {
+     "text": "STEUBENVILLE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "American Modern dinnerware",
+   "ebayAvgSold": 41.91,
+   "ebaySellers90d": 753,
+   "ebaySellThrough": 0.1589,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"russel wright\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "heath-ceramics",
+   "name": "Heath Ceramics",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "HEATH",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Sausalito stoneware",
+   "ebayAvgSold": 67.83,
+   "ebaySellers90d": 383,
+   "ebaySellThrough": 0.2576,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"heath ceramics\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "arabia-finland",
+   "name": "Arabia Finland",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "ARABIA",
+     "needsConfirmation": true
+    },
+    {
+     "text": "ARABIA FINLAND",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Paratiisi, Ruska, Valencia",
+   "ebayAvgSold": 53.34,
+   "ebaySellers90d": 862,
+   "ebaySellThrough": 0.1547,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"arabia finland\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "royal-copenhagen",
+   "name": "Royal Copenhagen",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "ROYAL COPENHAGEN",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Blue Fluted, figurines, Baca",
+   "ebayAvgSold": 80.19,
+   "ebaySellers90d": 2629,
+   "ebaySellThrough": 0.0872,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"royal copenhagen\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "iittala",
+   "name": "Iittala",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "IITTALA",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Aalto vases, birds by Toikka",
+   "ebayAvgSold": 78.25,
+   "ebaySellers90d": 939,
+   "ebaySellThrough": 0.1191,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"iittala\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "blenko",
+   "name": "Blenko",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "BLENKO",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Mid-century colored glass; usually no mark, sticker only",
+   "ebayAvgSold": 95.84,
+   "ebaySellers90d": 2452,
+   "ebaySellThrough": 0.2326,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"blenko glass\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "fenton",
+   "name": "Fenton",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "FENTON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Art glass; script F or oval mark",
+   "ebayAvgSold": 62.8,
+   "ebaySellers90d": 14402,
+   "ebaySellThrough": 0.2114,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"fenton glass\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "murano",
+   "name": "Murano",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "MURANO",
+     "needsConfirmation": false
+    },
+    {
+     "text": "VETRI",
+     "needsConfirmation": true
+    },
+    {
+     "text": "MADE IN ITALY",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Sommerso vases, clowns, birds; sticker or etched signature",
+   "ebayAvgSold": 59.86,
+   "ebaySellers90d": 11633,
+   "ebaySellThrough": 0.1348,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"murano glass\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "carnival-glass",
+   "name": "Carnival glass",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [],
+   "lookFor": "No reliable text; needs the visual model",
+   "ebayAvgSold": 49.53,
+   "ebaySellers90d": 7147,
+   "ebaySellThrough": 0.1377,
+   "poshmarkMedian": null,
+   "visualOnly": true,
+   "notes": "eBay: Terapeak, last 90 days, searched \"carnival glass\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "waterford",
+   "name": "Waterford",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "WATERFORD",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Crystal; check for acid-etched mark",
+   "ebayAvgSold": 65.6,
+   "ebaySellers90d": 9330,
+   "ebaySellThrough": 0.2012,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"waterford crystal\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "corelle-vintage-patterns",
+   "name": "Corelle (vintage patterns)",
+   "category": "Housewares",
+   "subcategory": "Glass & ceramics",
+   "aliases": [
+    {
+     "text": "CORELLE",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Butterfly Gold, Spring Blossom, rare patterns",
+   "ebayAvgSold": 23.61,
+   "ebaySellers90d": 3206,
+   "ebaySellThrough": 0.2244,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"corelle vintage\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "kitchenaid-stand-mixer",
+   "name": "KitchenAid stand mixer",
+   "category": "Housewares",
+   "subcategory": "Kitchen gear",
+   "aliases": [
+    {
+     "text": "KITCHENAID",
+     "needsConfirmation": false
+    },
+    {
+     "text": "HOBART",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Hobart-era (pre-1986) and tilt-head mixers, attachments",
+   "ebayAvgSold": 113.98,
+   "ebaySellers90d": 3640,
+   "ebaySellThrough": 0.2564,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"kitchenaid stand mixer\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "vitamix",
+   "name": "Vitamix",
+   "category": "Housewares",
+   "subcategory": "Kitchen gear",
+   "aliases": [
+    {
+     "text": "VITAMIX",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Blenders, test before buying",
+   "ebayAvgSold": 94.91,
+   "ebaySellers90d": 2583,
+   "ebaySellThrough": 0.3406,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vitamix\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "yeti",
+   "name": "Yeti",
+   "category": "Housewares",
+   "subcategory": "Kitchen gear",
+   "aliases": [
+    {
+     "text": "YETI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Tumblers and coolers",
+   "ebayAvgSold": 30.42,
+   "ebaySellers90d": 3799,
+   "ebaySellThrough": 0.4066,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"yeti tumbler\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "stanley-vintage",
+   "name": "Stanley (vintage)",
+   "category": "Housewares",
+   "subcategory": "Kitchen gear",
+   "aliases": [
+    {
+     "text": "STANLEY",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Vintage green thermoses; Quencher cups",
+   "ebayAvgSold": 29.6,
+   "ebaySellers90d": 670,
+   "ebaySellThrough": 0.1769,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"stanley thermos vintage\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "pendleton-blankets",
+   "name": "Pendleton blankets",
+   "category": "Housewares",
+   "subcategory": "Decor",
+   "aliases": [
+    {
+     "text": "PENDLETON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Wool blankets and robes",
+   "ebayAvgSold": 93.43,
+   "ebaySellers90d": 1807,
+   "ebaySellThrough": 0.3249,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"pendleton blanket\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "hudson-s-bay-blankets",
+   "name": "Hudson's Bay blankets",
+   "category": "Housewares",
+   "subcategory": "Decor",
+   "aliases": [
+    {
+     "text": "HUDSON'S BAY",
+     "needsConfirmation": false
+    },
+    {
+     "text": "HUDSON BAY",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Point blankets",
+   "ebayAvgSold": 179.47,
+   "ebaySellers90d": 289,
+   "ebaySellThrough": 0.252,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"hudson bay point blanket\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "dansk-teak",
+   "name": "Dansk teak",
+   "category": "Housewares",
+   "subcategory": "Decor",
+   "aliases": [
+    {
+     "text": "DANSK",
+     "needsConfirmation": false
+    },
+    {
+     "text": "QUISTGAARD",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Teak ice buckets, peppermills, serving pieces",
+   "ebayAvgSold": 74.04,
+   "ebaySellers90d": 529,
+   "ebaySellThrough": 0.2116,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"dansk teak\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "brass-mid-century",
+   "name": "Brass (mid-century)",
+   "category": "Housewares",
+   "subcategory": "Decor",
+   "aliases": [
+    {
+     "text": "SOLID BRASS",
+     "needsConfirmation": true
+    },
+    {
+     "text": "BRASS",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Lamps and candleholders; mostly visual",
+   "ebayAvgSold": 35.14,
+   "ebaySellers90d": 2298,
+   "ebaySellThrough": 0.1699,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"brass candlestick vintage\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "marantz",
+   "name": "Marantz",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "MARANTZ",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage receivers (silver face)",
+   "ebayAvgSold": 244.13,
+   "ebaySellers90d": 1158,
+   "ebaySellThrough": 0.3697,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"marantz receiver\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "pioneer-vintage",
+   "name": "Pioneer (vintage)",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "PIONEER",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "SX-series receivers, turntables",
+   "ebayAvgSold": 242.33,
+   "ebaySellers90d": 806,
+   "ebaySellThrough": 0.3569,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"pioneer sx receiver\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "technics",
+   "name": "Technics",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "TECHNICS",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "SL-1200 / SL-1210 turntables",
+   "ebayAvgSold": 138.09,
+   "ebaySellers90d": 235,
+   "ebaySellThrough": 0.2404,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"technics sl-1200 (average includes parts/broken units)\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "sansui",
+   "name": "Sansui",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "SANSUI",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Vintage receivers and amps",
+   "ebayAvgSold": 229.53,
+   "ebaySellers90d": 480,
+   "ebaySellThrough": 0.2984,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"sansui receiver\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "mcintosh",
+   "name": "McIntosh",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "MCINTOSH",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Blue-meter amps; high value",
+   "ebayAvgSold": 753.28,
+   "ebaySellers90d": 237,
+   "ebaySellThrough": 0.1927,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"mcintosh amplifier\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "bose",
+   "name": "Bose",
+   "category": "Other hard goods",
+   "subcategory": "Audio",
+   "aliases": [
+    {
+     "text": "BOSE",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "901 speakers, Wave radios; mid value",
+   "ebayAvgSold": 157.41,
+   "ebaySellers90d": 283,
+   "ebaySellThrough": 0.2896,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"bose 901\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "nikon-film",
+   "name": "Nikon (film)",
+   "category": "Other hard goods",
+   "subcategory": "Cameras",
+   "aliases": [
+    {
+     "text": "NIKON",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "F-series and FM/FE film bodies, AI lenses",
+   "ebayAvgSold": 195.07,
+   "ebaySellers90d": 4559,
+   "ebaySellThrough": 0.202,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"nikon film camera\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "canon-film",
+   "name": "Canon (film)",
+   "category": "Other hard goods",
+   "subcategory": "Cameras",
+   "aliases": [
+    {
+     "text": "CANON",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "AE-1, A-1, FD lenses",
+   "ebayAvgSold": 290.09,
+   "ebaySellers90d": 4575,
+   "ebaySellThrough": 0.3025,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"canon ae-1 (average inflated by one $103k outlier; typical bodies sell far lower)\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "polaroid",
+   "name": "Polaroid",
+   "category": "Other hard goods",
+   "subcategory": "Cameras",
+   "aliases": [
+    {
+     "text": "POLAROID",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "SX-70 folding cameras especially",
+   "ebayAvgSold": 80.27,
+   "ebaySellers90d": 1494,
+   "ebaySellThrough": 0.3505,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"polaroid sx-70\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "olympus-film",
+   "name": "Olympus (film)",
+   "category": "Other hard goods",
+   "subcategory": "Cameras",
+   "aliases": [
+    {
+     "text": "OLYMPUS",
+     "needsConfirmation": true
+    }
+   ],
+   "lookFor": "Stylus Epic, OM-1, XA",
+   "ebayAvgSold": 127.88,
+   "ebaySellers90d": 4282,
+   "ebaySellThrough": 0.2231,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"olympus film camera\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "vinyl-records",
+   "name": "Vinyl records",
+   "category": "Other hard goods",
+   "subcategory": "Media",
+   "aliases": [],
+   "lookFor": "Check by artist and pressing; needs record-specific lookup",
+   "ebayAvgSold": 36.33,
+   "ebaySellers90d": 58378,
+   "ebaySellThrough": 0.1889,
+   "poshmarkMedian": null,
+   "visualOnly": true,
+   "notes": "eBay: Terapeak, last 90 days, searched \"vinyl record lp (whole category; value depends on the specific record)\" (Oct 25, 2026)",
+   "excludes": []
+  },
+  {
+   "id": "video-games-retro",
+   "name": "Video games (retro)",
+   "category": "Other hard goods",
+   "subcategory": "Media",
+   "aliases": [
+    {
+     "text": "NINTENDO",
+     "needsConfirmation": false
+    },
+    {
+     "text": "SEGA",
+     "needsConfirmation": false
+    },
+    {
+     "text": "PLAYSTATION",
+     "needsConfirmation": false
+    }
+   ],
+   "lookFor": "Cartridges and consoles; huge category of its own",
+   "ebayAvgSold": 44.69,
+   "ebaySellers90d": 11251,
+   "ebaySellThrough": 0.4523,
+   "poshmarkMedian": null,
+   "visualOnly": false,
+   "notes": "eBay: Terapeak, last 90 days, searched \"nintendo 64 game\" (Oct 25, 2026)",
+   "excludes": []
+  }
+ ]
+}
